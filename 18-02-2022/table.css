@@ -1,0 +1,29 @@
+
+body{
+    margin-right: 0px;
+    
+}
+
+h2 {
+    margin-top: 10px;
+    text-align: left;
+    margin-right: 20px;
+    color: red;
+}
+.container{
+    row-gap: 30px;
+    column-gap: 30px;
+    gap: 30px;
+    
+}
+
+tr:nth-child(2n+1) {
+    color:orange;
+}
+tr:nth-child(2n) {
+    color: rgb(25, 235, 25);
+} 
+
+tr:nth-child(3n+1) {
+    color: blueviolet;
+}
