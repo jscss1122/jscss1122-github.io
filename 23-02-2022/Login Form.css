@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    background-color: aqua;
+    text-align: center;
+    background: radius 30%;;
+}
+form{
+    background-color: brown;
+    width: 500px;
+    padding-left: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 400px;
+    position: absolute;
+}
